@@ -35,5 +35,5 @@ La salida de la orden es:
 
 ## Ejercicio 4. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios. Usar siempre que sea posible un hipervisor que sea software libre.
 
-He elegido el famoso VirtualBox, una prueba de que esta instalado es la siguiente imagen:
+He elegido el famoso VirtualBox, una prueba de que esta instalado es esta imagen:
 ![virtualbox](./img/virtualbox.png)

@@ -29,11 +29,15 @@ Por conclusión, el VPS pageremos 189€/año y por el servicio cloud 39,6552€
 
 ## Ejercicio 3. En general, cualquier ordenador con menos de 5 o 6 años tendrá estos flags. ¿Qué modelo de procesador es? ¿Qué aparece como salida de esa orden? Si usas una máquina virtual, ¿qué resultado da? ¿Y en una Raspberry Pi o, si tienes acceso, el procesador del móvil?
 El procesador es el siguiente:
+  
 ![processador](./img/cpu-info.png)
+  
 La salida de la orden es:
+  
 ![flags](./img/flags.png)
 
 ## Ejercicio 4. Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios. Usar siempre que sea posible un hipervisor que sea software libre.
 
 He elegido el famoso VirtualBox, una prueba de que esta instalado es esta imagen:
-![virtualbox](./img/virtualbox.png)
+  
+![virtualbox](./img/virutalbox.png)

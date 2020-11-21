@@ -1,6 +1,4 @@
-
-
-                                                                                                                            # Ejercicio 1. Darse de alta en Vercel y Firebase, y descargarse los SDKs para poder trabajar con ellos localmente
+# Ejercicio 1. Darse de alta en Vercel y Firebase, y descargarse los SDKs para poder trabajar con ellos localmente
 
 ## Vercel
 Para trabajar en local, nos deberemos descargar el CLI, he ejecutado ```npm i -g vercel``` como pone en su documentación.

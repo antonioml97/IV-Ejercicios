@@ -1,4 +1,6 @@
-# Ejercicio 1. Darse de alta en Vercel y Firebase, y descargarse los SDKs para poder trabajar con ellos localmente
+
+
+                                                                                                                            # Ejercicio 1. Darse de alta en Vercel y Firebase, y descargarse los SDKs para poder trabajar con ellos localmente
 
 ## Vercel
 Para trabajar en local, nos deberemos descargar el CLI, he ejecutado ```npm i -g vercel``` como pone en su documentación.
@@ -16,9 +18,8 @@ Lo primero que he hecho ha sido crear un repositorio para hacer estos despliegue
 Una vez hecho esto, he añadido solo este repositorio a Vercel.
 ![vercel-ok](./img/vercel-ok.png)
 
-Hemos hecho 2 pruebas básicas, uno que muestra el tipico Hello World, pero con un mensaje algo distinto y otra para indiciar el dia que es. Lo primero que tenemos que hacer lanzarlo asi:
+Hemos hecho 2 pruebas básicas, uno que muestra el tipico Hello World, pero con un mensaje algo distinto y otra para indiciar el día que es. Lo primero que tenemos que hacer lanzarlo así:
 ![vercel-ready](./img/vercel-ready.png)
-
 
 Tras esto, lanzar los test es tan simple como esto:
 ![vercel-test-2](./img/vercel-test-1.png)
@@ -28,7 +29,8 @@ Tras esto, lanzar los test es tan simple como esto:
 Lo primero que tenemos que hacer es registrarnos en la plataforma.
 ![Netlify-Alta](./img/Netlify-Alta.png)
 
-En esta ocasion, vuelvo a hacer una especie de "Hola mundo", tanto en local como con la url que te da Netlify.
+En esta ocasión, vuelvo a hacer una especie de "Hola mundo", tanto en local como con la url que te da Netlify.
 
 ![Netlify](./img/Netlify.png)
 ![Netlify-2](./img/Netlify-2.png)
+
